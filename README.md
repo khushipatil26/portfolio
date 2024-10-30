@@ -1,1 +1,2 @@
 # portfolio
+"Welcome to my personal portfolio, where creativity meets functionality. Here, you’ll find a collection of my work as a UI/UX designer, showcasing projects that highlight my skills in design thinking, user experience, and interactive prototyping. Each project has been crafted with attention to detail, aiming to create intuitive, user-centered solutions. Feel free to explore and see how my designs come to life!"
